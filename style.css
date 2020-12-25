@@ -1,0 +1,61 @@
+body{
+  background-image: url('background.jpg')
+  }
+body {
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.container {
+  text-align: center;
+  margin: 100px;
+  margin-bottom: auto;
+}
+.logo {
+  width: 150px;
+}
+.sottotesto {
+  color: rgb(0, 230, 0);
+  font-size: 23px;
+  font-family: "Poppins", sans-serif;
+}
+
+
+.prenota {
+  text-align: center;
+  background-color: rgb(0, 230, 0);
+  padding: 15px;
+}
+
+main{
+  display: inline-block;
+  margin: 100px;
+  margin-top: auto;
+  }
+
+.stile {
+  font-family: "Poppins", sans-serif;
+  color: white;
+}
+
+.barra1, .barra2, .barra3{
+  border-radius: 3px;
+}
+
+.barra1{
+  width: 400px;
+  height: 20px;
+  background-color: rgb(255, 204, 102);
+}
+
+.barra2{
+  width: 700px;
+  height: 20px;
+  background-color: rgb(51, 204, 51);
+}
+
+.barra3{
+  width: 150px;
+  height: 20px;
+  background-color: rgb(255, 102, 102)
+}
